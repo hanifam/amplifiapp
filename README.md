@@ -1,0 +1,2 @@
+# amplifiapp
+CI/CD Demo
